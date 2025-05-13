@@ -14,7 +14,7 @@ The incubator model is divided into two key incubation phases:
 - `incubator_18-21_days.fis` – FIS configuration for days 18 to 21.
 
 ## Requirements
-- MATLAB (recommended R2020a or newer)
+- MATLAB
 - Fuzzy Logic Toolbox
 
 ## Usage
